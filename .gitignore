@@ -1,0 +1,10 @@
+node_modules/
+dist/
+test-results/
+reports/
+*.log
+.env
+.DS_Store
+*.xlsx
+!data/test-data-template.xlsx
+

@@ -1,0 +1,9 @@
+{
+  "baseUrl": "https://example-ecommerce.com",
+  "apiBaseUrl": "https://api.example-ecommerce.com",
+  "browser": "chrome",
+  "headless": false,
+  "timeout": 30000,
+  "testDataPath": "./data/test-data.xlsx"
+}
+

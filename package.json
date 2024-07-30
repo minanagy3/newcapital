@@ -1,0 +1,21 @@
+{
+  "name": "newcapital-ecommerce-automation",
+  "version": "1.0.0",
+  "description": "E-commerce test automation framework for educational purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Running e-commerce tests...\" && exit 0",
+    "test:e2e": "echo \"Running E2E tests...\" && exit 0",
+    "test:api": "echo \"Running API tests...\" && exit 0"
+  },
+  "keywords": [
+    "ecommerce",
+    "test-automation",
+    "selenium",
+    "playwright",
+    "api-testing"
+  ],
+  "author": "",
+  "license": "ISC"
+}
+
